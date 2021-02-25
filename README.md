@@ -1,0 +1,2 @@
+# SGMinerMaster
+SG Miner Master
